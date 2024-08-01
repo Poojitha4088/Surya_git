@@ -9,5 +9,6 @@ if(Area_rect>Peri_rect)
 System.out.println("area of rectangle is greater");
 else
 System.out.println("perimeter of rectangle is greater");
+system.out.println("hello");
 }
 }
